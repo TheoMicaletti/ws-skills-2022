@@ -6,17 +6,18 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage ✔️
+- les normes `ecmascript` ✔️
+- l'utilisation de l'`asynchrone` ✔️
+- les spécifités du mot-clef `this` ✔️
 
 ## 💻 Je code en Javascript
 
 ### Un exemple de code commenté ❌ / ✔️
 
-```javascript
-(e) => mc2;
+```const theo = "je suis theo"
+for (let i=0; i<theo.length; i++){
+
 ```
 
 ### Utilisation dans un projet ❌ / ✔️
