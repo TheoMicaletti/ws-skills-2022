@@ -6,28 +6,37 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌ / ✔️
-- les types de bases ❌ / ✔️
-- comment et pourquoi étendre une interface ❌ / ✔️
-- les classes et les decorators ❌ / ✔️
+- l'intéret de TypeScript dans l'IDE ✔️
+- les types de bases ✔️
+- comment et pourquoi étendre une interface ❌
+- les classes et les decorators ❌
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+<!-- const theo: string = "je suis theo"
+let r: string[] = []
+for (let i=0; i<theo.length; i++){
+     if(theo[i]=="o"){
+        r.push("hello")
+        }
+    }
+console.log(r) == "hello" -->
 
-[lien github](...)
+### Utilisation dans un projet ✔️
 
-Description :
+[lien github](https://github.com/ComicScrip/wns-livecodings.git)
 
-### Utilisation en production si applicable❌ / ✔️
+Description : Projet en cours alternance.
+
+### Utilisation en production si applicable ❌
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌
 
 Description :
 
