@@ -6,30 +6,45 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'état (_state_) pour contrôler l'affichage d'un composant ❌ / ✔️
-- les composants enfants et les _props_ qu'on leur passe ❌ / ✔️
-- le déclenchement d'instructions en fonction des actions de l'utilisateur ❌ / ✔️
-- le déclenchement d'instructions en fonction de l'étape du cycle de vie du composant ou du changement de valeur de ses props ❌ / ✔️
+- l'état (_state_) pour contrôler l'affichage d'un composant ✔️
+- les composants enfants et les _props_ qu'on leur passe ✔️
+- le déclenchement d'instructions en fonction des actions de l'utilisateur ✔️
+- le déclenchement d'instructions en fonction de l'étape du cycle de vie du composant ou du changement de valeur de ses props ✔️
 - l'usage d'un reducer (_useReducer_) pour gérer un état composé dans un composant
-- l'état stocké dans un composant avec un _context provider_ et accessible dans ses descendants via `useContext` ❌ / ✔️
+- l'état stocké dans un composant avec un _context provider_ et accessible dans ses descendants via `useContext` ✔️
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+<!-- import React from "react";
 
-[lien github](...)
+export default function FavoriteRecipes({ isFavorite, handleClick }) {
+  return (
+    <button
+      // className={isFavorite ? "isFavorite" : "notFavorite"}
+      className={isFavorite ? "isFavorite" : "notFavorite"}
+      onClick={handleClick}
+      type="button"
+    >
+      {" "}
+    </button>
+  );
+} -->
 
-Description :
+### Utilisation dans un projet ✔️
 
-### Utilisation en production si applicable❌ / ✔️
+[lien github](https://github.com/TheoMicaletti/Mealme.git)
 
-[lien du projet](...)
+Description : Projet 2 formation Wild Code School.
 
-Description :
+### Utilisation en production si applicable ✔️
 
-### Utilisation en environement professionnel ❌ / ✔️
+[lien du projet](https://github.com/vincent-vaur/knock-knock.git)
+
+Description : Projet 3 KnockKnock formation Wild Code School.
+
+### Utilisation en environement professionnel ❌
 
 Description :
 
