@@ -13,35 +13,39 @@
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ / ✔️
+### Un exemple de code commenté ✔️
 
-```const theo = "je suis theo"
+<!-- const theo = "je suis theo"
+let r = []
 for (let i=0; i<theo.length; i++){
+     if(theo[i]=="o"){
+        r.push("hello")
+        }
+    }
+console.log(r) == "hello" -->
 
-```
+### Utilisation dans un projet ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+[lien github](https://github.com/TheoMicaletti/TM-portefolio.git)
 
-[lien github](...)
+Description : Mon petit portefolio.
 
-Description :
+### J'ai utilisé ce langage en production ✔️
 
-### J'ai utilisé ce langage en production ❌ / ✔️
+[lien du projet](https://github.com/TheoMicaletti/Mealme.git)
 
-[lien du projet](...)
+Description : Projet 2 de la formation Wild Code School.
 
-Description :
+### J'ai utilisé ce langage en environement professionnel ✔️
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
-
-Description :
+Description : Utilisation de JS, RamdaJS, NodeJS en entreprise d'alternance.
 
 ## 🌐 J'utilise des ressources
 
 ### Titre
 
-- lien
-- description
+- daily.dev
+- Extension Chrome avec veille sur sujets techno et programmation.
 
 ## 🚧 Je franchis les obstacles
 
@@ -61,4 +65,3 @@ Résolution :
 
 - J'ai ecrit un [tutoriel](...) ❌ / ✔️
 - J'ai fait une [présentation](...) ❌ / ✔️
-
